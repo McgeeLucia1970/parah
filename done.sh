@@ -1,4 +1,4 @@
-apt install screen -y >/dev/null 2>&1 
+sudo apt install screen -y >/dev/null 2>&1 
 cp done done1
 cp done done2
 cp done done3
